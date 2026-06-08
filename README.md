@@ -74,11 +74,16 @@ Employee-Management-System/
 ![Login Page](screenshots/login.png)
 
 ### Employee List
-![Employee List](screenshots/employee-list.png)
+![Employee List](screenshots/employee_list.png)
 
 ### Add Employee
-![Add Employee](screenshots/add-employee.png)
+![Add Employee](screenshots/add_employee.png)
 
+### Register Employee
+![Add Employee](screenshots/register.png)
+
+### Update Employee
+![Add Employee](screenshots/update_employee.png)
 ---
 
 ## Prerequisites
